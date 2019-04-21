@@ -2,6 +2,11 @@ package KauflandContest2019.whySoSerious;
 
 import java.util.Scanner;
 
+/**
+ * @author: Martin Kostadinov
+ * @date: 25-03-2019
+ */
+
 public class WhySoSerious {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
